@@ -1,4 +1,4 @@
-### Operating Systems & Linux Basics" Module
+### Operating Systems & Linux Basics
 
 <details>
 <summary>Video: Basic Linux Commands (CLI - Part 2)</summary>
