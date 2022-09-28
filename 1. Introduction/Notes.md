@@ -9,7 +9,7 @@
 ## Software Testing
 
 - test new features & old functionality
-- done by developers &dedicated testers
+- done by developers & dedicated testers
 - manual & automated testing
 
 ## Operations
