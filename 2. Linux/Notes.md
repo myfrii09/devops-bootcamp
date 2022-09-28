@@ -1,8 +1,9 @@
 ### Operating Systems & Linux Basics
 
+---
+
 <details>
 <summary>Video: Basic Linux Commands (CLI - Part 2)</summary>
-<br />
 
 General Operations:
 
