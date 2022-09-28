@@ -1,18 +1,18 @@
-# Different IT Roles in Software Development & Delivery Process
+### Different IT Roles in Software Development & Delivery Process
 
-## Software Development
+#### Software Development
 
 - software programmed by developers
 - in different programming languages, like Java, Python, JavaScript
 - new functionality & bugfixes
 
-## Software Testing
+#### Software Testing
 
 - test new features & old functionality
 - done by developers & dedicated testers
 - manual & automated testing
 
-## Operations
+#### Operations
 
 - build application
 - deploy on servers
